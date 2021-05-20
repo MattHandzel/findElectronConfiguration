@@ -48,7 +48,7 @@ tempOrder = permOrder.copy()
 electronConfiguration = ""
 i = 0
 
-if name == "__main__":
+if __name__ == "__main__":
 
   amtOfElectrons = int(input("How many electrons does this element have?\n"))
   while amtOfElectrons > 0:
