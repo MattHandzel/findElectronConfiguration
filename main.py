@@ -1,5 +1,3 @@
-import numpy as np
-
 class Sublevel:
   def __init__(self, name, pel):
     self.name = name
