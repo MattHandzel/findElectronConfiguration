@@ -1,4 +1,4 @@
-# findElectronConfiguration
-This is a tool I used for chemistry in order to quickly find the electron configuration for x amount of electrons.
+# Find Electron Configuration For N Electrons
+This is a tool I used for a specific chemistry worksheet that had too many problems! It wanted us to get the electron configuration for specific elements. So instead I wrote a program that, when inputted the amount of electrons this element has, will return the electron configuration.
 
-You input the amount of electrons and it will output the electron configuration for an element without any excited electrons. I did this so that I could finish my homework faster
+![Screenshot 2022-08-12 164823](https://user-images.githubusercontent.com/39449480/184449290-db8887c5-5942-4d8b-b336-16c2df524769.png)
